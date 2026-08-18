@@ -1,11 +1,10 @@
-# Playground
+# anotacoes-dev
 
-Repo de estudo do fluxo Git/GitHub.
+Caderno pessoal de estudo. Vou anotando aqui o que aprendo em JavaScript, Git e Flutter
+pra não esquecer e poder consultar depois.
 
-## Anotações
-- PR = Pull Request: proposta de mudança de um branch pro outro.
+## Índice
+- [Git — comandos que sempre esqueço](notas/git.md)
+- [JavaScript — snippets úteis](notas/javascript.md)
 
-## Glossário
-- **branch**: linha de trabalho paralela.
-- **merge**: junta um branch no outro.
-- **review**: revisão de código antes do merge.
+> Repositório pessoal, sem pretensão de biblioteca. Se te ajudar, ótimo.
